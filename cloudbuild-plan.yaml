@@ -1,0 +1,7 @@
+- name: 'gcr.io/cloud-builders/git'
+  id: Environment
+  entrypoint: /bin/sh
+  args:
+  - '-c'
+  - 'echo'
+  - '$PROJECT_ID'
