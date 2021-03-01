@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "PROJECT_ID = $PROJECT_ID"
+
+echo "PROJECT_ID = $1"

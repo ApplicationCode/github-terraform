@@ -5,4 +5,4 @@ steps:
   args:
   - '-c'
   - |
-      ./wrapper.sh
+      ./wrapper.sh $PROJECT_ID
