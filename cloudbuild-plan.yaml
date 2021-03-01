@@ -4,6 +4,5 @@ steps:
   entrypoint: /bin/sh
   args:
   - '-c'
-  - 'echo'
-  - '$PROJECT_ID'
-  - '$BUILD_ID'
+  - |
+      ./wrapper.sh
