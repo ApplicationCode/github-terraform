@@ -6,3 +6,4 @@ steps:
   - '-c'
   - 'echo'
   - '$PROJECT_ID'
+  - '$BUILD_ID'
