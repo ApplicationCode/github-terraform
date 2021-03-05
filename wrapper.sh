@@ -1,49 +1,49 @@
 #!/bin/bash
 
-# /bin/sh -c ./wrapper.sh 
-# tf-cloudbuild-ed58 
-# f7b8641a-31a9-46d8-af1a-c9c2ec6f32c1 
-# a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6 
-# a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6 
-# a56e03c 
-# github-terraform 
-# master 
-# 0 
-# 2021-03-01T16:59:03Z 
-# empty-commit (#3) 
-# https://api.github.com/repos/ApplicationCode/github-terraform/commits/a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6 
-# aggarwal-mayank 
-# [{"added":[],"author":{"email":"aggarwal.mayank@live.com","name":"aggarwal-mayank","username":"aggarwal-mayank"},"committer":{"email":"noreply@github.com","name":"GitHub","username":"web-flow"},"distinct":true,"id":"a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6","message":"empty-commit (#3)","modified":["wrapper.sh"],"removed":[],"timestamp":"2021-03-01T17:59:03+01:00","tree_id":"12801a1c1ac0f5d641e5c5c858ec8362ca87d883","url":"https://github.com/ApplicationCode/github-terraform/commit/a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6"}] 
-# true 
-# HCL 
-# ApplicationCode 
-# admin 
-# github-terraform 
+# /bin/sh -c ./wrapper.sh
+# tf-cloudbuild-ed58
+# f7b8641a-31a9-46d8-af1a-c9c2ec6f32c1
+# a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6
+# a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6
+# a56e03c
+# github-terraform
+# master
+# 0
+# 2021-03-01T16:59:03Z
+# empty-commit (#3)
+# https://api.github.com/repos/ApplicationCode/github-terraform/commits/a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6
+# aggarwal-mayank
+# [{"added":[],"author":{"email":"aggarwal.mayank@live.com","name":"aggarwal-mayank","username":"aggarwal-mayank"},"committer":{"email":"noreply@github.com","name":"GitHub","username":"web-flow"},"distinct":true,"id":"a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6","message":"empty-commit (#3)","modified":["wrapper.sh"],"removed":[],"timestamp":"2021-03-01T17:59:03+01:00","tree_id":"12801a1c1ac0f5d641e5c5c858ec8362ca87d883","url":"https://github.com/ApplicationCode/github-terraform/commit/a56e03c4c4dd5f619c9deefa0658de5cbbaf90e6"}]
+# true
+# HCL
+# ApplicationCode
+# admin
+# github-terraform
 # https://github.com/ApplicationCode/github-terraform
 
 # PR
-# /bin/sh -c ./wrapper.sh 
-# tf-cloudbuild-ed58 
-# 748289c7-f2db-4b37-b9da-83439236a9d5 
-# ccbb08cc4b2503dc00d8d6ef8ed90a2c6cf5bfc7 
-# ccbb08cc4b2503dc00d8d6ef8ed90a2c6cf5bfc7 
-# ccbb08c 
-# github-terraform 
-# develop 
-# develop 
-# master 
-# https://github.com/ApplicationCode/github-terraform 
-# 3 
-# 0 
-# 2021-03-01T16:57:36Z 
-# empty-commit 
-# https://api.github.com/repos/ApplicationCode/github-terraform/commits/ccbb08cc4b2503dc00d8d6ef8ed90a2c6cf5bfc7 
-# aggarwal-mayank 
-# true 
-# null 
-# admin 
-# 5.82224608e+08 
-# empty-commit 
+# /bin/sh -c ./wrapper.sh
+# tf-cloudbuild-ed58
+# 748289c7-f2db-4b37-b9da-83439236a9d5
+# ccbb08cc4b2503dc00d8d6ef8ed90a2c6cf5bfc7
+# ccbb08cc4b2503dc00d8d6ef8ed90a2c6cf5bfc7
+# ccbb08c
+# github-terraform
+# develop
+# develop
+# master
+# https://github.com/ApplicationCode/github-terraform
+# 3
+# 0
+# 2021-03-01T16:57:36Z
+# empty-commit
+# https://api.github.com/repos/ApplicationCode/github-terraform/commits/ccbb08cc4b2503dc00d8d6ef8ed90a2c6cf5bfc7
+# aggarwal-mayank
+# true
+# null
+# admin
+# 5.82224608e+08
+# empty-commit
 # aggarwal-mayank
 
 # /bin/sh -c ./wrapper.sh tf-cloudbuild-ed58 dfc0fa40-9555-4a25-9b50-e8071f5b4562 6b15a596332fdd50f531506512e218934d4bb1af 6b15a596332fdd50f531506512e218934d4bb1af 6b15a59 github-terraform master 46 2021-03-01T17:13:00Z junky https://api.github.com/repos/ApplicationCode/github-terraform/commits/6b15a596332fdd50f531506512e218934d4bb1af aggarwal-mayank [{"added":[],"author":{"email":"aggarwal.mayank@live.com","name":"aggarwal-mayank","username":"aggarwal-mayank"},"committer":{"email":"noreply@github.com","name":"GitHub","username":"web-flow"},"distinct":true,"id":"6b15a596332fdd50f531506512e218934d4bb1af","message":"junky","modified":["wrapper.sh"],"removed":[],"timestamp":"2021-03-01T18:13:00+01:00","tree_id":"5a5bb5c6e03f558a3634e6c0aabdc04e55e4ed87","url":"https://github.com/ApplicationCode/github-terraform/commit/6b15a596332fdd50f531506512e218934d4bb1af"}] true HCL ApplicationCode admin github-terraform https://github.com/ApplicationCode/github-terraform
@@ -52,6 +52,8 @@
 # /bin/sh -c ./wrapper.sh tf-cloudbuild-ed58 ccd87d13-569e-466b-a597-ad1793ef5b82 9c634cdae694ce3fbe9e0c6fb1cca356a291ec41 9c634cdae694ce3fbe9e0c6fb1cca356a291ec41 9c634cd github-terraform develop develop master https://github.com/ApplicationCode/github-terraform 4 46 2021-03-01T17:07:11Z junk https://api.github.com/repos/ApplicationCode/github-terraform/commits/9c634cdae694ce3fbe9e0c6fb1cca356a291ec41 aggarwal-mayank true null admin 5.8223157e+08 Develop aggarwal-mayank
 
 
+/bin/sh -c ./wrapper.sh tf-cloudbuild-ed58 d8a91910-4f9c-4655-afc4-39f9acc98f15 873431251f9ac51ccffa728a435c88a65dc5e680 873431251f9ac51ccffa728a435c88a65dc5e680 8734312 github-terraform develop 7 2021-03-01T17:23:05Z check/forward/slash-in-commit-message https://api.github.com/repos/ApplicationCode/github-terraform/commits/873431251f9ac51ccffa728a435c88a65dc5e680 aggarwal-mayank [{"added":[],"author":{"email":"aggarwal.mayank@live.com","name":"Mayank Aggarwal","username":"aggarwal-mayank"},"committer":{"email":"aggarwal.mayank@live.com","name":"Mayank Aggarwal","username":"aggarwal-mayank"},"distinct":true,"id":"873431251f9ac51ccffa728a435c88a65dc5e680","message":"check/forward/slash-in-commit-message","modified":["wrapper.sh"],"removed":[],"timestamp":"2021-03-01T18:23:05+01:00","tree_id":"a026aa012964622bdca7ed65d1f238c9dc216a9b","url":"https://github.com/ApplicationCode/github-terraform/commit/873431251f9ac51ccffa728a435c88a65dc5e680"}] true HCL ApplicationCode admin github-terraform https://github.com/ApplicationCode/github-terraform
+/bin/sh -c ./wrapper.sh tf-cloudbuild-ed58 1c8ebac0-79d4-4145-b07b-287c7a3d42c0 873431251f9ac51ccffa728a435c88a65dc5e680 873431251f9ac51ccffa728a435c88a65dc5e680 8734312 github-terraform develop develop master https://github.com/ApplicationCode/github-terraform 5 7 2021-03-01T17:23:05Z check/forward/slash-in-commit-message https://api.github.com/repos/ApplicationCode/github-terraform/commits/873431251f9ac51ccffa728a435c88a65dc5e680 aggarwal-mayank true null admin 5.82243152e+08 Develop aggarwal-mayank
 
 
 echo "PROJECT_ID = $1"
