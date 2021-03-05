@@ -32,16 +32,8 @@ steps:
   args:
   - '-c'
   - |
-    echo $_COMMIT_MESSAGE
-    echo $_DIR
-    echo ${$_COMMIT_MESSAGE%%-*}
-    echo $_DIR
     cd $_DIR
-    pwd
-    terragrunt -version 
-    terraform version
     terraform plan -input=false -out $_PLAN_FILE
-    ls
 
 availableSecrets:
   secretManager:
