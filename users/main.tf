@@ -11,7 +11,7 @@ resource "github_team_membership" "mayank-aggarwal-team-member" {
   team_id  = lookup(local.teams, each.key)
   role     = each.value
 
-  username = github_membership.mayank-aggarwal-org-member.username  
+  username = github_membership.mayank-aggarwal-org-member.username
   for_each = {
     devops = "member"
   }
